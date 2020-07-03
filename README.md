@@ -1,1 +1,1 @@
-# ultra-news-demo-data
+# ultra-lite-demo-data

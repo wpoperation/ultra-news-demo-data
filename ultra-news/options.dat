@@ -1,0 +1,11 @@
+a:4:{s:8:"template";s:11:"ultra-seven";s:4:"mods";a:22:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:9:"main-menu";i:9;}s:18:"custom_css_post_id";i:182;s:23:"ultra_seven_theme_color";s:7:"#ec2d2f";s:16:"header_textcolor";s:5:"blank";s:23:"ultra_seven_ticker_show";s:4:"hide";s:20:"ultra_seven_Facebook";s:1:"#";s:19:"ultra_seven_Twitter";s:1:"#";s:20:"ultra_seven_Linkedin";s:1:"#";s:21:"ultra_seven_Instagram";s:1:"#";s:26:"ultra_seven_header_layouts";s:14:"ultra-header-1";s:23:"ultra_seven_cat_color_5";s:7:"#283cd6";s:23:"ultra_seven_cat_color_6";s:7:"#ec2d2f";s:25:"ultra_seven_topfooter_col";i:3;s:23:"ultra_seven_footer_text";s:37:"All Rights Reserved &copy; Ultra News";s:23:"ultra_seven_footer_menu";s:4:"hide";s:30:"ultra_seven_bottom_text_active";s:7:"#ec2d2f";s:23:"ultra_seven_cat_color_2";s:7:"#ec2d2f";s:23:"ultra_seven_cat_color_4";s:7:"#43a8c6";s:23:"ultra_seven_cat_color_1";s:7:"#00167a";s:20:"ultra_archive_layout";s:4:"grid";s:11:"custom_logo";i:295;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:191:".site-header img{
+	max-width: 80%;
+}
+.site-header.layout-two .middle-block-wrap .site-branding{
+	margin-top: 0;
+}
+
+.middle-block-wrap .ultra-container{
+	display: flex;
+	align-items: center;
+}";}
